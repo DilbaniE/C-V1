@@ -1,0 +1,14 @@
+C:\Users\claudia.enriquez\source\repos\IniciosP\bin\Debug\net6.0\IniciosP.exe
+C:\Users\claudia.enriquez\source\repos\IniciosP\bin\Debug\net6.0\IniciosP.deps.json
+C:\Users\claudia.enriquez\source\repos\IniciosP\bin\Debug\net6.0\IniciosP.runtimeconfig.json
+C:\Users\claudia.enriquez\source\repos\IniciosP\bin\Debug\net6.0\IniciosP.dll
+C:\Users\claudia.enriquez\source\repos\IniciosP\bin\Debug\net6.0\IniciosP.pdb
+C:\Users\claudia.enriquez\source\repos\IniciosP\obj\Debug\net6.0\IniciosP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\claudia.enriquez\source\repos\IniciosP\obj\Debug\net6.0\IniciosP.AssemblyInfoInputs.cache
+C:\Users\claudia.enriquez\source\repos\IniciosP\obj\Debug\net6.0\IniciosP.AssemblyInfo.cs
+C:\Users\claudia.enriquez\source\repos\IniciosP\obj\Debug\net6.0\IniciosP.csproj.CoreCompileInputs.cache
+C:\Users\claudia.enriquez\source\repos\IniciosP\obj\Debug\net6.0\IniciosP.dll
+C:\Users\claudia.enriquez\source\repos\IniciosP\obj\Debug\net6.0\refint\IniciosP.dll
+C:\Users\claudia.enriquez\source\repos\IniciosP\obj\Debug\net6.0\IniciosP.pdb
+C:\Users\claudia.enriquez\source\repos\IniciosP\obj\Debug\net6.0\IniciosP.genruntimeconfig.cache
+C:\Users\claudia.enriquez\source\repos\IniciosP\obj\Debug\net6.0\ref\IniciosP.dll
